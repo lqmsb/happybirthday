@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi",
+  "name": "李秋梅",
+  "greetingText": "我记得你的名字呢~",
+  "wishText": "祝你18岁又60个月生日快乐^_^",
+  "imagePath": "img/lqm.jpg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "《赤壁赋》中有几句我很喜欢的话想送给你",
+  "sendButtonLabel": "Click",
+  "text2": "惟江上之清风，与山间之明月",
+  "text3": "耳得之而为声，目遇之而成色",
+  "text4": "  取之无禁，用之不竭。",
+  "text4Adjective": "✿ヽ (ﾟ▽ﾟ) ノ✿",
+  "text5Entry": "一句话概括",
+  "text5Content": "人生苦短，希望你能一直感受到生活的美好",
+  "smiley": ":)",
+  "bigTextPart1": "LA",
+  "bigTextPart2": "ST,",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "好的看完了快滚(*^▽^*)",
+  "replayText": "或者如果你想看多一次，就点我吧",
+  "outroSmiley": ":)"
+}
